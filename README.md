@@ -42,4 +42,4 @@ Board name is `ASTRONAUT`
 
 ## Note
 
-This method is inconsistent (mabye), but it worked for me
+This method is inconsistent (mabye), but it worked for me (refer to [PROOF.md](PROOF.md))
