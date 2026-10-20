@@ -5,7 +5,7 @@
 
 For some Chromebook with CR50 which couldn't boot straight from the wall charger, this method maybe could work
 
-## Device
+## Device Tested
 
 Acer C732
 - N3350
@@ -17,6 +17,8 @@ Board name is `ASTRONAUT`
 ## Requirements
 
 - Developer mode enabled
+- Debugging Features enabled (depends on your model, mabye)
+- Access to VT2 shell (refer to [PREREQUISITES.md](PREREQUISITES.md))
 
 ## Steps
 
